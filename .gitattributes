@@ -1,0 +1,7 @@
+# Windows scripts are stored with CRLF as-is, so ZIP download from GitHub works too
+*.bat  -text
+*.cmd  -text
+*.ps1  -text
+*.psd1 -text
+*.yml  text eol=lf
+*.md   text eol=lf
