@@ -1,0 +1,5 @@
+config.local.psd1
+secrets/
+*.gguf
+*.part
+.env
